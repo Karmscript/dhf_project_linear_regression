@@ -4,15 +4,13 @@
 
 ## Project Overview
 
-This project analyzes a marketing dataset to evaluate the performance of various advertising channels—**TV**, **Radio**, and **Social Media**—against **Sales**. Using Python and `statsmodels`, an Ordinary Least Squares (OLS) regression model was built to quantify the exact impact of marketing spend, validate structural assumptions, and translate raw statistical outputs into actionable, ROI-driven business recommendations.
+This project analyzes a marketing dataset to evaluate the performance of various advertising channels**TV**, **Radio**, and **Social Media**against **Sales**. Using Python and `statsmodels`, an Ordinary Least Squares (OLS) regression model was built to quantify the exact impact of marketing spend, validate structural assumptions, and translate raw statistical outputs into actionable, ROI-driven business recommendations.
 
 ---
 
 ## Project Goal
 
 * **Data Quality:** Clean and filter marketing dataset anomalies (e.g., removing outliers in Social Media spend).
-* **Feature Selection:** Identify and justify the single best-performing channel for a Simple Linear Regression model.
-* **Statistical Modeling:** Fit an explicit OLS model and mathematically evaluate channel significance.
 * **Assumption Verification:** Verify Linearity, Normality, and Homoscedasticity using rigorous diagnostic plots.
 * **Business Insights:** Deliver a clear, data-backed recommendation for marketing budget optimization to maximize Return on Investment (ROI).
 
@@ -29,8 +27,9 @@ pip install pandas numpy matplotlib seaborn statsmodels notebook
 
 ### Repository Structure
 
-* `regression_analysis.ipynb`: Complete Jupyter Notebook with clean code, markdown explanations, and executed cells.
 * `README.md`: Project summary, setup, and key analytical findings.
+* `dhf_simple_linear_regression_project`: Complete Jupyter Notebook with clean code, markdown explanations, and executed cells.
+* `marketing_and_sales_data.csv`
 
 ---
 
