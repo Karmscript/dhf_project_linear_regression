@@ -28,7 +28,7 @@ pip install pandas numpy matplotlib seaborn statsmodels notebook
 ### Repository Structure
 
 * `README.md`: Project summary, setup, and key analytical findings.
-* `dhf_simple_linear_regression_project`: Complete Jupyter Notebook with clean code, markdown explanations, and executed cells.
+* `regression_analysis.ipynb`: Complete Jupyter Notebook with clean code, markdown explanations, and executed cells.
 * `marketing_and_sales_data.csv`
 
 ---
