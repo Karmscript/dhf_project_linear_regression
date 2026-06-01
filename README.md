@@ -69,7 +69,7 @@ The OLS summary generated the following critical statistical markers:
 
 ## Strategic Marketing Recommendations
 
-> 🚀 **Core Decision:** **Aggressively shift and allocate remaining marketing budgets directly to the TV advertising channel.**
+>  **Core Decision:** **Aggressively shift and allocate remaining marketing budgets directly to the TV advertising channel.**
 
 ### Business Context for Stakeholders:
 
