@@ -65,6 +65,8 @@ The OLS summary generated the following critical statistical markers:
 
 * **Multicorrelation Warning:** The *Condition Number* exceeded 30, signaling a redundant feature in the system. Given its high $p$-value and standard error, **Social Media** was deduced to be the redundant feature.
 
+## Linear Equation of model
+Y = 3.56*TV - 0.048*Social_Media - 0.1297
 ---
 
 ## Strategic Marketing Recommendations
